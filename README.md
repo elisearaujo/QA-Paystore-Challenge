@@ -18,5 +18,8 @@
 |C-09 |	Clicar em 2022 |	Selecionar ano	 | Texto mostra ano clicado (2022) |
 
 
+# API POSTMAN LINK COMPARTILHAMENTO
+https://www.postman.com/elisearaujoc-9895957/teste-qa-automacao/collection/56545857-1fb6439c-0d0a-44e4-8b7d-6bc2268324ea?action=share&source=copy-link&creator=56545857
+
 # API AUTOMAÇÃO COLLECTION RUNNER:
 https://elisearaujoc-9895957.postman.co/teste-qa-automacao/run/56545857-6e892eb1-9828-4de7-812b-7e9375964712/entity?action=share&creator=56545857
