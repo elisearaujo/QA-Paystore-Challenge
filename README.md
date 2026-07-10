@@ -7,7 +7,7 @@
 |C-02 |	Buscar Pet existente    | Fazer GET pelo id criado                |	Retornar os dados cadastrados  |
 |C-03 |	Buscar Pet inexistente  | 	Fazer GET por id inválido             |	Retornar erro 404              |
 |C-04 |	Excluir Pet             |	Fazer DELETE do id criado	          | Pet removido                   |
-|C-05 |	Buscar após Excluir     |	Fazer GET de novo                     |	Retornar 404                   |
+
 			
 ## FRONT:	
 |ID	  |   CENÁRIO      |	PASSOS           |	RESULTADO ESPERADO             |
