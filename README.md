@@ -16,3 +16,4 @@
 |C-07 |	Clicar em 1997 |	Selecionar ano	 | Texto mostra ano clicado (1997) |
 |C-08 |	Clicar em 2005 |	Selecionar ano	 | Texto mostra ano clicado (2005) |
 |C-09 |	Clicar em 2022 |	Selecionar ano	 | Texto mostra ano clicado (2022) |
+
