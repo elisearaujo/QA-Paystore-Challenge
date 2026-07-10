@@ -12,10 +12,10 @@
 ## FRONT:	
 |ID	  |   CENÁRIO      |	PASSOS           |	RESULTADO ESPERADO             |
 |-----|----------------|-------------------|---------------------------------|
-|C-06 |	Abrir história |	Entrar na página | Timeline carregada              |
-|C-07 |	Clicar em 1997 |	Selecionar ano	 | Texto mostra ano clicado (1997) |
-|C-08 |	Clicar em 2005 |	Selecionar ano	 | Texto mostra ano clicado (2005) |
-|C-09 |	Clicar em 2022 |	Selecionar ano	 | Texto mostra ano clicado (2022) |
+|C-05 |	Abrir história |	Entrar na página | Timeline carregada              |
+|C-06 |	Clicar em 1997 |	Selecionar ano	 | Texto mostra ano clicado (1997) |
+|C-07 |	Clicar em 2005 |	Selecionar ano	 | Texto mostra ano clicado (2005) |
+|C-08 |	Clicar em 2022 |	Selecionar ano	 | Texto mostra ano clicado (2022) |
 
 
 # API POSTMAN LINK COMPARTILHAMENTO
