@@ -18,8 +18,13 @@
 |C-08 |	Clicar em 2022 |	Selecionar ano	 | Texto mostra ano clicado (2022) |
 
 
-# API POSTMAN LINK COMPARTILHAMENTO
+# API Postman Link Compartilhamento:
 https://www.postman.com/elisearaujoc-9895957/teste-qa-automacao/collection/56545857-1fb6439c-0d0a-44e4-8b7d-6bc2268324ea?action=share&source=copy-link&creator=56545857
 
-# API AUTOMAÇÃO COLLECTION RUNNER:
+# API Automação Collection Runner:
 https://elisearaujoc-9895957.postman.co/teste-qa-automacao/run/56545857-6e892eb1-9828-4de7-812b-7e9375964712/entity?action=share&creator=56545857
+
+-------------------------------------------
+
+# Site Phoebus:
+Nos arquivos também pode se encontrar o .spec.js com o código JS da automação feita com Playwright. Estão nos arquivos também as screenshots tiradas na automação, mas pode ser analizado o relatório que mostra os prints anexados. 
