@@ -32,3 +32,15 @@ Nos arquivos você pode encontrar "Requests_Pet.postman_collection.json", o arqu
 -------------------------------------------
 # Site Phoebus:
 Nos arquivos também pode se encontrar o .spec.js com o código JS da automação feita com Playwright (pode ser encontrado na pasta tests). Estão nos arquivos também as screenshots (pasta screenshots) tiradas na automação, mas pode ser analizado o relatório que mostra os prints anexados. 
+
+No terminal: $ npx playwright test 
+roda o arquivo historia.spec.js
+
+$ npx playwright show-report
+executa o relatório
+
+<img width="788" height="837" alt="image" src="https://github.com/user-attachments/assets/5a260c35-248f-4aa7-9252-82bc2da3719e" />
+
+<img width="737" height="523" alt="image" src="https://github.com/user-attachments/assets/42b9b4e6-d31a-4cc2-887e-ece87637e180" />
+<img width="698" height="458" alt="image" src="https://github.com/user-attachments/assets/32c94ec9-c6f7-45be-8d90-54543654c077" />
+<img width="706" height="461" alt="image" src="https://github.com/user-attachments/assets/5724a563-972f-4bf4-852b-a29f65897020" />
