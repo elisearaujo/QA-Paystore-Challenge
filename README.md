@@ -26,5 +26,9 @@ https://elisearaujoc-9895957.postman.co/teste-qa-automacao/run/56545857-6e892eb1
 
 -------------------------------------------
 
+# API:
+Nos arquivos você pode encontrar "Requests_Pet.postman_collection.json", o arquivo .json gerado do Postman sobre os Requests feitos no primeiro desafio.
+
+-------------------------------------------
 # Site Phoebus:
 Nos arquivos também pode se encontrar o .spec.js com o código JS da automação feita com Playwright (pode ser encontrado na pasta tests). Estão nos arquivos também as screenshots (pasta screenshots) tiradas na automação, mas pode ser analizado o relatório que mostra os prints anexados. 
